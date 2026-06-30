@@ -580,7 +580,7 @@ The authors do not encourage or endorse unauthorized surveillance or misuse of f
 
 **Deepsikha Patra**
 
-📧 Email: *your-email@example.com*
+📧 Email: deepsikhapatra1@gmail.com
 
 💼 LinkedIn: https://www.linkedin.com/in/deepsikha-patra
 
