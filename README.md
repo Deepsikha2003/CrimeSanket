@@ -2,7 +2,7 @@
 # 🚨 CrimeSanket
 
 <p align="center">
-  <img src="assets/logo.png" alt="CrimeSanket Logo" width="220"/>
+  <img src="assets/logo.jpg" alt="CrimeSanket Logo" width="220"/>
 </p>
 
 <h3 align="center">
